@@ -1,0 +1,14 @@
+[user]
+	name = klogins-hash
+	email = klogins@thekollektiv.xyz
+[credential]
+	helper = store
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+[core]
+	compression = 0
+[url "https://github.com/"]
+	insteadOf = git@github.com:

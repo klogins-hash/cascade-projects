@@ -1,0 +1,11 @@
+# Minimal aliases for essential CascadeProjects structure
+alias cp-cd="cd /Users/franksimpson/CascadeProjects"
+alias cp-config="cd /Users/franksimpson/CascadeProjects/config"
+alias cp-scripts="cd /Users/franksimpson/CascadeProjects/scripts"
+alias cp-restore="/Users/franksimpson/CascadeProjects/config/restore-configs.sh"
+alias cp-list="ls -la /Users/franksimpson/CascadeProjects"
+alias system-data-cleanup="/Users/franksimpson/CascadeProjects/scripts/system-data-cleanup.sh"
+alias clean-space-hogs="/Users/franksimpson/CascadeProjects/scripts/clean-space-hogs.sh"
+alias auto-cleanup="/Users/franksimpson/CascadeProjects/scripts/auto-cleanup.sh"
+alias cleanup-monitor="/Users/franksimpson/CascadeProjects/scripts/cleanup-monitor.sh"
+alias swap-cleanup="/Users/franksimpson/CascadeProjects/scripts/swap-cleanup.sh"

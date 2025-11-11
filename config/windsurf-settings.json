@@ -1,0 +1,76 @@
+{
+    "security.workspace.trust.untrustedFiles": "open",
+    "files.autoSave": "afterDelay",
+    "editor.accessibilitySupport": "on",
+    "cascade.sounds.enable": true,
+    "cascade.notifications.enable": false,
+    "cascade.signals.enable": false,
+    "cascade.statusBar.enable": false,
+    "cascade.toast.enable": false,
+    "cascade.voice.signals.enable": false,
+    "cascade.voice.sounds.enable": false,
+    "cascade.voice.notifications.enable": false,
+    "cascade.voice.feedback.enable": false,
+    "windsurf.voice.signals": false,
+    "windsurf.voice.sounds": false,
+    "windsurf.voice.notifications": false,
+    "windsurf.signals.voice": false,
+    "windsurf.sounds.voice": false,
+    "editor.suggest.showStatusBar": false,
+    "editor.hover.enabled": false,
+    "editor.parameterHints.enabled": false,
+    "editor.lightbulb.enabled": "off",
+    "problems.showCurrentInStatus": false,
+    "notifications.showExtensionsNotifications": false,
+    "extensions.ignoreRecommendations": true,
+    "telemetry.telemetryLevel": "off",
+    "update.showReleaseNotes": false,
+    "git.showProgress": false,
+    "git.decorations.enabled": false,
+    "scm.diffDecorations": "none",
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": true,
+        "strings": true
+    },
+    "editor.suggestOnTriggerCharacters": true,
+    "editor.acceptSuggestionOnCommitCharacter": true,
+    "editor.acceptSuggestionOnEnter": "on",
+    "editor.tabCompletion": "on",
+    "editor.wordBasedSuggestions": "matchingDocuments",
+    "editor.suggest.localityBonus": true,
+    "editor.inlineSuggest.enabled": true,
+    "workbench.activityBar.location": "bottom",
+    "workbench.auxiliaryActivityBar.location": "hidden",
+    "zenMode.hideStatusBar": false,
+    "accessibility.signals.terminalCommandSucceeded": {
+        "sound": "off",
+        "announcement": "off"
+    },
+    "accessibility.signals.terminalCommandFailed": {
+        "sound": "off",
+        "announcement": "off"
+    },
+    "accessibility.signals.chatEditModifiedFile": {
+        "sound": "off"
+    },
+    "workbench.editor.editorActionsLocation": "hidden",
+    "[dockercompose]": {
+        "editor.insertSpaces": true,
+        "editor.tabSize": 2,
+        "editor.autoIndent": "advanced",
+        "editor.quickSuggestions": {
+            "other": true,
+            "comments": false,
+            "strings": true
+        },
+        "editor.defaultFormatter": "redhat.vscode-yaml"
+    },
+    "[github-actions-workflow]": {
+        "editor.defaultFormatter": "redhat.vscode-yaml"
+    },
+    "window.restoreWindows": "none",
+    "git.defaultCloneDirectory": "/Users/franksimpson/CascadeProjects",
+    "workbench.projectManagement.autoOpenProjects": "prompt"
+}
